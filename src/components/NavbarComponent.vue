@@ -4,7 +4,7 @@
     <nav class="bg-white border-gray-200 dark:bg-gray-900">
         <div class="flex flex-wrap items-center justify-between max-w-screen-xl mx-auto p-4">
             <a href="https://flowbite.com" class="flex items-center">
-                <img src="images/logo.png" class="h-8 mr-3" alt="Flowbite Logo" />
+                <img src="../assets/images/logo.png" class="h-8 mr-3" alt="Flowbite Logo" />
                 <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">MUFC</span>
             </a>
             <div class="flex items-center md:order-2">
